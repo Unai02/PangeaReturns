@@ -1,0 +1,51 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: #fbbe01;
+}
+
+h1 {
+    padding: 10px 0px 10px 80px;
+}
+
+#logotipo {
+    width: 100px;
+    height: 100px;
+}
+
+/* Menu Nav */
+nav li {
+  float: right;
+  position: relative;
+  width: auto;
+  list-style: none;
+  padding-right: 80px;
+  padding-top: 20px;
+}
+
+nav li a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+nav ul li a :hover {
+    width: auto;
+    background-color: #fcd45c;
+}
+
+/* Footer */
+
+footer {
+    float: left;
+    position: relative;
+    text-decoration: none;
+    margin-top: 80%;
+    padding: 15px 15px 15px 15px ;
+}
+
+
