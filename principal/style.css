@@ -1,0 +1,91 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: rgb(228, 228, 228);
+}
+
+
+/* ? MENU NAV */
+header {
+  background-color: #fbbe01;
+}
+
+h1 {
+  padding: 25px 0px 20px 20px;
+  text-decoration: none;
+}
+
+nav li {
+  float: right;
+  position: relative;
+  width: auto;
+  list-style: none;
+  padding-right: 80px;
+  padding-top: 30px;
+}
+
+nav li a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav ul li a:hover{
+  color: white;
+  transition: all 300ms;
+}
+
+/* ? CUERPO DE LA PAGINA */
+
+#logotipo {
+  width: 350px;
+  height: 350px;
+  float: right;
+  padding-right: 250px;
+  padding-top: 50px;
+}
+
+.titulo-uno {
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.parrafada-uno {
+  border-radius: 8px;
+  width: 500px;
+  padding: 10px 10px 10px 10px;
+  display: flexbox;
+}
+
+.gobierno {
+  width: 500px;
+  float: right;
+  margin-right: 45px;
+}
+
+.gobierno h2 {
+  padding-bottom: 15px;
+}
+
+/* ? FOOTER */
+
+footer {
+  margin-top: 20%;
+  padding: 15px 15px 15px 15px;
+}
+
+.insta img {
+  width: 50px;
+  height: 50px;
+}
+
+.copi {
+  font-weight: bold;
+}
