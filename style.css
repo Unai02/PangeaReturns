@@ -144,7 +144,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/img/Amenaza.jpeg);
+    ,url(img/Amenaza.jpeg);
 }
 
 .carta:nth-child(2){
@@ -153,7 +153,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/img/Arco.jpeg);
+    ,url(img/Arco.jpeg);
     
 }
 .carta:nth-child(3){  
@@ -162,7 +162,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/img/Pangea1.jpeg);
+    ,url(img/Pangea1.jpeg);
 }
 
 #caracteristicas .container{
@@ -254,7 +254,7 @@ footer .container{
     }
 
     #somos-pangea .img-container{
-        background-image: url(img/pangea.jfif);
+        background-image: url(img/Espadas2.jpeg);
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -283,7 +283,7 @@ footer .container{
     }
 
     #caracteristicas{
-        background-image: url(img/Espadas3.jpeg);
+        background-image: url(img/pangea.jfif);
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 700px) 120px;
